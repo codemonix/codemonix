@@ -1,24 +1,28 @@
-# Hi, I'm Saeid 👋
+# Saeid Monfared
 
-Full-Stack Developer building production-ready web applications with the MERN stack, 
-TypeScript, and cloud infrastructure. Backed by 20+ years in systems architecture 
-and technical leadership.
+**Solutions Architect for Mission-Critical Broadcast & IT Infrastructure** · Istanbul
 
-## 🛠️ Tech Stack
+I design systems where servers, shared storage, networks, broadcast equipment and software have to work together with no single point of failure. For 20+ years I took them from tender to handover and into operation for a national broadcaster.
 
-**Frontend:** React, Redux Toolkit, Tailwind CSS, MUI, Vite  
-**Backend:** Node.js, Express, MongoDB, WebSockets, REST APIs  
-**DevOps:** Docker, AWS Lightsail, Nginx, GitHub Actions CI/CD  
-**Languages:** TypeScript, JavaScript (ES6+), Bash, Python  
+- Won roughly **70%** of the tenders I designed solutions for
+- Six new IT-based TV channels (about **US$1M** tender): kept all six on air 24/7 for **three years** after handover with no off-air incidents caused by system failure
+- Converted **26** provincial radio stations from analog reels to an IT-based system, the first project of its kind in the country
+- Founded a broadcast software department; our playout system sold **200+** licenses in two to three years
 
-## 🚀 Featured Projects
+## Engineering lab
 
-| Project | Description | Live |
+The same fault-tolerant thinking, applied to software I build and run myself.
+
+| Project | What it shows | Live |
 |---|---|---|
-| [IMS](https://github.com/codemonix/inventory-management-system) | Multi-location inventory platform with RBAC, JWT auth, and Docker deployment | [ims.saeidmon.com](https://ims.saeidmon.com) |
-| [SRM](https://github.com/codemonix/server-monitor) | Real-time server monitoring with cross-platform agents, WebSocket streaming, and offline persistence | [srm.saeidmon.com](https://srm.saeidmon.com) |
+| [Server Monitor (SRM)](https://github.com/codemonix/server-monitor) | Cross-platform agent (Linux .deb, Windows .exe) streaming CPU, memory, disk and network metrics. WebSockets with automatic HTTP fallback and offline disk queueing during outages; JWT with refresh-token rotation and RBAC; CI/CD for versioned builds; Docker on AWS. | [srm.saeidmon.com](https://srm.saeidmon.com) |
+| [Inventory Management System (IMS)](https://github.com/codemonix/inventory-management-system) | Multi-location stock with a two-phase transfer engine; JWT/RBAC; Node.js/Express + MongoDB; Docker on AWS Lightsail behind Nginx with zero-downtime updates; transactional backup and restore, tested end to end. | [ims.saeidmon.com](https://ims.saeidmon.com) |
 
-## 📫 Contact
+## Toolbox
 
-[saeidmon.com](https://www.saeidmon.com) · 
-[LinkedIn](https://www.linkedin.com/in/saeid-monfared/)
+**Architecture:** high availability, automatic failover, disaster recovery, SAN/NAS shared storage, network and NOC design, broadcast playout and automation, SDI routing, IPTV, SMPTE ST 2110 concepts
+**Software and DevOps:** Node.js, TypeScript, React, MongoDB, WebSockets, Docker, Nginx, AWS, GitHub Actions, Linux, Bash, Python
+
+## Contact
+
+[saeidmon.com](https://www.saeidmon.com) · [LinkedIn](https://www.linkedin.com/in/saeid-monfared/)
