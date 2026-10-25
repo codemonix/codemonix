@@ -1,8 +1,8 @@
 # Saeid Monfared
 
-**Solutions Architect for Mission-Critical Broadcast & IT Infrastructure** · Istanbul
+**Systems & Infrastructure Specialist · Pre-Sales & Solution Design · Broadcast & Mission-Critical IT** · Istanbul
 
-I design systems where servers, shared storage, networks, broadcast equipment and software have to work together with no single point of failure. For 20+ years I took them from tender to handover and into operation for a national broadcaster.
+I design and deliver mission-critical systems where servers, shared storage, networks and software have to work together, with no single point of failure. For 20+ years I did this for national broadcasters, from the tender to handover and beyond.
 
 - Won roughly **70%** of the tenders I designed solutions for
 - Six new IT-based TV channels (about **US$1M** tender): kept all six on air 24/7 for **three years** after handover with no off-air incidents caused by system failure
@@ -20,8 +20,9 @@ The same fault-tolerant thinking, applied to software I build and run myself.
 
 ## Toolbox
 
-**Architecture:** high availability, automatic failover, disaster recovery, SAN/NAS shared storage, network and NOC design, broadcast playout and automation, SDI routing, IPTV, SMPTE ST 2110 concepts
-**Software and DevOps:** Node.js, TypeScript, React, MongoDB, WebSockets, Docker, Nginx, AWS, GitHub Actions, Linux, Bash, Python
+**Infrastructure:** servers, SAN/NAS shared storage, network design, data center and NOC design, high availability, automatic failover, disaster recovery, Linux
+**Broadcast:** playout and automation, MAM, SDI routing and distribution, IPTV, SMPTE ST 2110 concepts
+**Software and DevOps:** Node.js, TypeScript, React, MongoDB, WebSockets, Docker, Nginx, AWS, GitHub Actions, Bash, Python
 
 ## Contact
 
